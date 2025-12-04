@@ -77,7 +77,7 @@ Attempt to retrieve data from the Private Server (`10.10.1.75`) using the Privat
 As seen in the terminal output below, the request was successful:
 
 ```bash
-ubuntu@ip-10-0-2-246:~$ curl [http://10.10.1.75](http://10.10.1.75)
+ubuntu@ip-10-0-2-246:~$ curl http://10.10.1.75
 <html>
 <head><title>Private IP</title></head>
 <body>
