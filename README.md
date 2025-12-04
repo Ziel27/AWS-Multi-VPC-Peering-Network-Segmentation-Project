@@ -11,6 +11,7 @@ The core objective was to establish secure, private communication between an **E
 
 ## 🏗 Architecture
 ![Network Diagram](AWS-VPC-PEERING.JPG)
+
 *Figure 1: Network topology showing Subnets, Route Tables, Peering Connections, and Gateways.*
 
 ### Infrastructure Breakdown
