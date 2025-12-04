@@ -10,7 +10,7 @@ This project demonstrates a secure, modular AWS network architecture designed to
 The core objective was to establish secure, private communication between an **EC2 Client** in VPC A and an **EC2 Web Server** in VPC B using **VPC Peering**. The architecture ensures that sensitive data traffic never traverses the public internet, while simultaneously allowing the private server to securely access the internet for OS updates via a NAT Gateway.
 
 ## 🏗 Architecture
-![Network Diagram](image_692054.png)
+![Network Diagram](AWS-VPC-PEERING.jpg)
 *Figure 1: Network topology showing Subnets, Route Tables, Peering Connections, and Gateways.*
 
 ### Infrastructure Breakdown
